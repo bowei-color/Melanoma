@@ -15,7 +15,7 @@ Ensure you have the following prerequisites installed:
 You can install the required packages using `pip`:
 
 ```bash
-pip install torch numpy scikit-learn
+pip install numpy scikit-learn
 ```
 
 or use the following command to install all dependencies：
@@ -44,8 +44,3 @@ Activate the virtual environment
 conda activate myenvironment
 ```
 
-Navigate to the project directory
-
-```bash
-cd code
-```
