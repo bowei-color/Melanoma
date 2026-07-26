@@ -1,0 +1,20 @@
+Description,geneID,Functional_Category
+MHC class II protein complex assembly,HLA-DQA2/HLA-DQA1/HLA-DRA/HLA-DPB1/HLA-DQB1/HLA-DRB1/HLA-DMA/HLA-DMB/HLA-DPA1,Immune_Response
+peptide antigen assembly with MHC class II protein complex,HLA-DQA2/HLA-DQA1/HLA-DRA/HLA-DPB1/HLA-DQB1/HLA-DRB1/HLA-DMA/HLA-DMB/HLA-DPA1,Immune_Response
+MHC protein complex assembly,HLA-DQA2/HLA-DQA1/HLA-DRA/HLA-DPB1/HLA-DQB1/HLA-DRB1/HLA-DMA/HLA-DMB/HLA-DPA1,Immune_Response
+peptide antigen assembly with MHC protein complex,HLA-DQA2/HLA-DQA1/HLA-DRA/HLA-DPB1/HLA-DQB1/HLA-DRB1/HLA-DMA/HLA-DMB/HLA-DPA1,Immune_Response
+"CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation",IFNG/IL2RG/HLA-DRA/HLA-DRB1,Immune_Response
+mitotic spindle midzone assembly,BIRC5/CDCA8/PRC1/KIF4A/KIF23/AURKB/RACGAP1,Cell_Cycle
+mitotic spindle elongation,BIRC5/CDCA8/PRC1/KIF4A/KIF23/AURKB/RACGAP1,Cell_Cycle
+positive regulation of mitotic cell cycle spindle assembly checkpoint,BIRC5/CDCA8/NDC80/MAD2L1/AURKB,Cell_Cycle
+regulation of attachment of mitotic spindle microtubules to kinetochore,BIRC5/CDCA8/CDK1/AURKB,Cell_Cycle
+attachment of mitotic spindle microtubules to kinetochore,BIRC5/CDCA8/KIF2C/CENPE/CDK1/SKA1/NDC80/NUF2/AURKB/SKA3,Cell_Cycle
+cytoplasmic translation,RPL13/RPL18/RPS19/RPS12/RPL3/RPL19/RPL28/RPS9/RPS23/RPL5/RPS5/RPS6/RPLP1/RACK1/RPL7A/RPL8/RPS7/RPL4/RPLP0/RPL6/EEF1D/RPS2/EIF3D/RPS3A/PABPC1/RPL23/RPL12/RPS25/RPS8/RPL29/RPL10/RPS24,Translation_Ribosome
+ribosomal small subunit biogenesis,RPS19/NOB1/RPS12/RPS9/RPS23/RPS5/RPS6/RPS7/RPS3A/RPS25/RPS8/NPM1/RPS24,Translation_Ribosome
+ribosome assembly,NOP53/RPS19/RPL5/RPS5/NPM1/NOA1,Translation_Ribosome
+ribosomal large subunit biogenesis,NOP53/RPL5/RPL7A/ZNHIT3/NPM1,Translation_Ribosome
+translational elongation,RPLP1/EEF2/RACK1/EEF1A1/EEF1D,Translation_Ribosome
+stress response to copper ion,MT1X/MT1E/MT2A/MT1M,Stress_Response
+negative regulation of stress-activated protein kinase signaling cascade,PBK/FOXM1,Stress_Response
+protein refolding,HSPB2/CRYAB/DNAJA4/HSPA1A/HSPA1B,Stress_Response
+stress response to metal ion,MT1X/MT1E/MT2A/MT1M,Stress_Response

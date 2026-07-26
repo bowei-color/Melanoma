@@ -1,0 +1,8 @@
+cell_type,cluster,marker
+Naive CD8+ T,"""0"",""1"",""2""","""CCR7,SELL,TCF7,LEF1"""
+Cytotoxic CD8+ T,"""5"",""7"",""9"",""11""","""PRF1,GNLY,GZMB,GZMA"""
+Exhausted CD8+ T,"""13"",""15""","""HAVCR2,PDCD1,TIGIT"""
+NK-like,"""10"",""14""","""TRDC,TRGC1"""
+Th17,"""6""","""IL26,CCR6"""
+Treg,"""4"",""8""","""FOXP3,CTLA4,IKZF2"""
+CD4Tmem,"""3"",""12"",""16"",""17""","""ANXA1,IL7R,CD4"""
